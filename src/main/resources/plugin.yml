@@ -1,0 +1,4 @@
+name: ChestCheck
+version: '1.0-SNAPSHOT'
+main: de.wolley.chestCheck.ChestCheck
+api-version: '1.21'

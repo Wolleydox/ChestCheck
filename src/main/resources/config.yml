@@ -1,0 +1,10 @@
+prefix: "&7[&cChestLimit&7] "
+
+limit_message: "Diese Truhe wurde gesperrt, da zu viele Items enthalten sind!"
+
+destroy_message: "Du darfst diese Kiste nicht abbauen."
+
+limits:
+  DIAMOND: 10
+  IRON_INGOT: 64
+  GOLD_INGOT: 32
